@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #FAF3E0; /* Light beige background */
+}
+.form-container{
+    text-align: center;
+}
+.heading {
+    font-size: 24px; /* Adjust the font size as needed */
+    color: #333; /* Adjust the text color */
+    margin-bottom: 20px; /* Add margin to create space below the heading */
+  }
+.text-field{
+    margin-bottom:10px ;
+}
